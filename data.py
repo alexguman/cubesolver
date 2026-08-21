@@ -9,17 +9,17 @@ Y,y="y","y"
 cube =[
     [
         W,
-        [y,g,o],
-        [o,r,w],
-        [w,o,r],
-        [r,o,y]
+        [o,b,r],
+        [r,w,r],
+        [r,r,o],
+        [o,g,o]
     ],
     [
         o,
-        [b,r,g],
-        [g,g,g],
-        [g,y,o],
-        [o,o,b]
+        [y,g,w],
+        [w,w,g],
+        [g,o,g],
+        [g,g,y]
     ],
     [
         b,
