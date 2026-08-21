@@ -30,23 +30,23 @@ cube =[
     ],
     [
         r,
-        [b, b, g],
-        [g, b, y],
-        [y, g, b],
-        [b, w, b]
+        [w, w, y],
+        [y, r, y],
+        [y, b, y],
+        [y, y, w]
     ],
     [
         g,
-        [w, w, r],
-        [r, y, b],
-        [b, w, g],
-        [g, r, w]
+        [g, r, g],
+        [g, w, w],
+        [w, o, b],
+        [b, g, g]
     ],
     [
         y,
-        [w, w, w],
-        [w, g, o],
         [o, y, r],
-        [r, b, w]
+        [r, y, o],
+        [o, b, r],
+        [r, y, o]
     ]
 ]
